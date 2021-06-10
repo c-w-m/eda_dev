@@ -1,0 +1,13 @@
+# src
+[submodule "src/matplotlib"]
+	path = src/matplotlib
+	url = https://github.com/c-w-m/matplotlib.git
+[submodule "src/pandas"]
+	path = src/pandas
+	url = https://github.com/c-w-m/pandas.git
+[submodule "src/pyGeometry"]
+	path = src/pyGeometry
+	url = https://github.com/c-w-m/pyGeometry.git
+[submodule "src/Spirograph"]
+	path = src/Spirograph
+	url = https://github.com/c-w-m/Spirograph.git
