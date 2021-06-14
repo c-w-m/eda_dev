@@ -11,3 +11,6 @@
 [submodule "src/Spirograph"]
 	path = src/Spirograph
 	url = https://github.com/c-w-m/Spirograph.git
+[submodule "src/pbpython"]
+	path = src/pbpython
+	url = https://github.com/c-w-m/pbpython.git

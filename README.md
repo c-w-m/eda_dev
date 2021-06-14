@@ -32,6 +32,7 @@ git submodule add https://github.com/c-w-m/matplotlib.git
 git submodule add https://github.com/c-w-m/pandas.git
 git submodule add https://github.com/c-w-m/pyGeometry.git
 git submodule add https://github.com/c-w-m/Spirograph.git
+git submodule add https://github.com/c-w-m/pbpython.git
 ```
 #### Removing Submodules
 ```shell
@@ -131,3 +132,7 @@ $ conda activate eda_dev39
 ```shell
 (eda_dev39) $ conda remove -n <env_name> -all
 ```
+
+## `tox` Environment
+The current ['requirements.txt'](requirements.txt) file is based the **Windows 10** **Anaconda** install defined by 
+[`eda_dev39.yml`](eda_dev39.yml).

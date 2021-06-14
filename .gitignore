@@ -9,3 +9,6 @@
 
 # tox
 .tox/
+
+# MyPy format checker
+.mypy_cache/
