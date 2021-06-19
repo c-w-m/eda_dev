@@ -4,10 +4,11 @@
 # PyCharm IDE
 .idea/
 
+# Visual Studio Code IDE
+.vscode/
+
 # Virtual Environment
 .venv/
-
-# tox
 .tox/
 
 # MyPy format checker
