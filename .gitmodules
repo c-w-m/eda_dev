@@ -14,3 +14,6 @@
 [submodule "src/pbpython"]
 	path = src/pbpython
 	url = https://github.com/c-w-m/pbpython.git
+[submodule "src/tpq_dev"]
+	path = src/tpq_dev
+	url = https://flxsa@bitbucket.org/flxsa/tpq_dev.git
