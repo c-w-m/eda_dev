@@ -1,10 +1,4 @@
 # src
-[submodule "src/matplotlib"]
-	path = src/matplotlib
-	url = https://github.com/c-w-m/matplotlib.git
-[submodule "src/pandas"]
-	path = src/pandas
-	url = https://github.com/c-w-m/pandas.git
 [submodule "src/pyGeometry"]
 	path = src/pyGeometry
 	url = https://github.com/c-w-m/pyGeometry.git
@@ -14,6 +8,9 @@
 [submodule "src/pbpython"]
 	path = src/pbpython
 	url = https://github.com/c-w-m/pbpython.git
-[submodule "src/tpq_dev"]
-	path = src/tpq_dev
-	url = https://flxsa@bitbucket.org/flxsa/tpq_dev.git
+[submodule "3p/pandas"]
+	path = 3p/pandas
+	url = https://github.com/pandas-dev/pandas.git
+[submodule "3p/matplotlib"]
+	path = 3p/matplotlib
+	url = https://github.com/matplotlib/matplotlib.git
