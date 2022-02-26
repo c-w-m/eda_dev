@@ -8,9 +8,3 @@
 [submodule "src/pbpython"]
 	path = src/pbpython
 	url = https://github.com/c-w-m/pbpython.git
-[submodule "3p/pandas"]
-	path = 3p/pandas
-	url = https://github.com/pandas-dev/pandas.git
-[submodule "3p/matplotlib"]
-	path = 3p/matplotlib
-	url = https://github.com/matplotlib/matplotlib.git
