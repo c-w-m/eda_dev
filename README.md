@@ -35,7 +35,7 @@ $ git clone --recurse-submodules git@github.com:c-w-m/eda_dev.git      ## ssh
 
 | Directory      | Description               |
 |----------------|---------------------------|
-| 3p/*           | 3rd party projects        |
+| 3p/*           | 3rd party submodules      |
 | doc/*          | links and notes           |
 | ipynb/*        | sandbox/demo notebooks    |
 | src/*          | submodules                |
@@ -48,8 +48,7 @@ These are in `3p/`
 
 | Directory  | Description            |
 |------------|------------------------|
-| matplotlib | plotting               |
-| pandas     | data analysis          |
+|            |                        |
 |------------|------------------------|
 
 ### Forked Projects
